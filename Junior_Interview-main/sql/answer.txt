@@ -1,0 +1,5 @@
+1)SELECT Company.id,Company.name FROM Trip WHERE plane='Boeing' AND company='air_France';
+
+2)SELECT id, FROM Pass_in_trip ORDER BY trip DESC
+SELECT COUNT(Pass_in_trip)
+FROM id;
